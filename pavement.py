@@ -38,7 +38,7 @@ point it works only with CNV files, i.e. Seabird's CTD.
         '''.split('\n'))),
         author='Guilherme Castelao',
         author_email='guilherme@castelao.net',
-        url='http://',
+        url='http://github.com/castelao/pydap.handlers.cnv',
         license='MIT',
 
         packages=find_packages(),
